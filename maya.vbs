@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "F:\Raw\Maya\maya.bat", 0 , True
