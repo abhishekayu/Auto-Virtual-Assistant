@@ -1,4 +1,5 @@
 # Auto-Virtual-Assistant
+This Auto Virtual Assistent start automatically when system is start and it is provides support to you operate your system using voice command.
 ![github](https://user-images.githubusercontent.com/64314222/93706374-380d5580-fb43-11ea-8a99-3a6827940e64.gif)
 ```
 PYTHON
